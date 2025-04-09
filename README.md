@@ -19,7 +19,12 @@ A responsive Weather App built with HTML, CSS, and JavaScript. It fetches real-t
 - JavaScript (ES6)
 - OpenWeatherMap API
 
-## 📸 Screenshots
- ./screeshot
+ ## 📸 Screenshots
+
+### 💻 Desktop View
+![Desktop Screenshot](assets/web-Screenshot.png)
+
+### 📱 Mobile View
+![Mobile Screenshot](assets/Mob-Screenshot.png)
 ## 📜 License
 This project is open-source and free to use.
