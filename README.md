@@ -22,7 +22,7 @@ A responsive Weather App built with HTML, CSS, and JavaScript. It fetches real-t
  ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](C:\Users\sarth\OneDrive\Desktop\Project\WeatherApp\assets/websrc.png)
+![Desktop Screenshot](assets/websrc.png)
 
 ### 📱 Mobile View
 ![Mobile Screenshot](assets/Mob-Screenshot.png)
