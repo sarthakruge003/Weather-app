@@ -25,6 +25,6 @@ A responsive Weather App built with HTML, CSS, and JavaScript. It fetches real-t
 ![Desktop Screenshot](assets/websrc.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](assets/Mob-Screenshot.png)
+![Mobile Screenshot](assets/mobsrc.png)
 ## 📜 License
 This project is open-source and free to use.
