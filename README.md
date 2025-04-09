@@ -11,7 +11,7 @@ A responsive Weather App built with HTML, CSS, and JavaScript. It fetches real-t
 - Displays temperature, humidity, and wind speed
 
 ## 🚀 Live Demo
-[Click here to view the live app](#) <!-- Replace # with your GitHub Pages link if deployed -->
+[Click here to view the live app](https://sarthakruge003.github.io/Weather-app/) <!-- Replace # with your GitHub Pages link if deployed -->
 
 ## 📦 Tech Stack
 - HTML5
